@@ -40,8 +40,4 @@ It demonstrates **state management**, **dynamic rendering**, and **user interact
 
 ---
 
-## Installation
 
-1. Clone the repository:  
-   ```bash
-   git clone <your-repo-url>
